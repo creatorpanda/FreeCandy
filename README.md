@@ -5,4 +5,6 @@ This is a batch file that shuts down a pc after showing some messages and openin
 
 You can **run it at your own risk** *(it's nothing harmful but i can't know what may happen though..)* after closing every running program and/or saving any unsaved activity like compilers, notepads, video editors etc so you don't lose anything.
 
+Note that closing the command prompt that operates before the shutdown command is given will cancel the imminent shutdown.
+
 In case you don't know what to do: Click on the green "Clone or Download" button, click "Download Zip". Unzip it and run "FreeCandy.bat".
