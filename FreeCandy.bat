@@ -1,7 +1,6 @@
 @ECHO OFF 
 color 0a 
 TITLE CANDY! 
-REM emfanizo minimata
 ECHO                             ...----....
 ECHO                        ..-:"''         ''"-..
 ECHO                      .-'                      '-.
@@ -17,7 +16,8 @@ ECHO          .:. .  . .  . .   .  .  . . . ...:.:... .......:HIHMM.
 ECHO         .:.... .   . ."::"'.. .   .  . .:.:.:II;,. .. ..:IHIMMA
 ECHO         WHAT A NICE DAY!
 ECHO    OH LOOK! A GIANT MOUNTAIN OF CANDY !!!
-timeout /t 4 /nobreak >nul 
+timeout /t 4 /nobreak >nul
+color 0C
 ECHO         ':.:..  ..::IHHHHHI::. . .  ...:.::::.,,,. . ....VIMMHM
 ECHO        .:::I. .AHHHHHHHHHHAI::. .:...,:IIHHHHHHMMMHHL:. . VMMMM
 ECHO       .:.:V.:IVHHHHHHHMHMHHH::..:" .:HIHHHHHHHHHHHHHMHHA. .VMMM.
