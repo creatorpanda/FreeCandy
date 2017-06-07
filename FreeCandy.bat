@@ -56,7 +56,7 @@ ECHO                   "::.::.. .. .  ...:::IIHHMMMMHMV"
 ECHO                     "V::... . .I::IHHMMV"'
 ECHO                       '"VHVHHHAHHHHMMV:"'
 TITLE 1T W4S N0 C4NDY !!!
-ECHO IT NEVER WAS CANDY !!! (you remember me?)
+ECHO IT NEVER WAS CANDY !!!
 timeout /t 2 /nobreak >nul
 ECHO YOUR PC IS INFECTED!
 timeout /t 1 /nobreak >nul
@@ -66,18 +66,5 @@ ECHO STEALING FILES..
 timeout /t 3 /nobreak >nul
 ECHO DONE!
 timeout /t 1 /nobreak >nul
-TREE
-IPCONFIG /ALL 
-timeout /t 2 /nobreak >nul
-start cmd.exe 
-start cmd.exe
-start cmd.exe
-start cmd.exe
-start cmd.exe
-start cmd.exe
-start cmd.exe
-start cmd.exe
-start cmd.exe
-start cmd.exe
 shutdown.exe /s /t 03
 timeout /t 1 /nobreak >nul
